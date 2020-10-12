@@ -1,2 +1,3 @@
 # algorithm
-Algorithm  examples
+# Algorithm  examples
+This is an algorithm examples for learning.  
